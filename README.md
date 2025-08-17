@@ -85,3 +85,20 @@ This practice project shares many similarities with the **Final Project: Househo
 ---
 
 ## 📂 Project Structure
+src/
+├── components/
+│ ├── TotalCost.js
+│ ├── ItemsDisplay.js
+│ ├── RoomSelection.js
+│ ├── AddonsSelection.js
+│ ├── MealsSelection.js
+│ └── PopupSummary.js
+├── pages/
+│ ├── LandingPage.js
+│ └── ProductSelectionPage.js
+├── App.js
+├── index.js
+└── styles/
+├── TotalCost.css
+├── LandingPage.css
+├── ProductSelectionPage.css
