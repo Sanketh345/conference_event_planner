@@ -55,7 +55,9 @@ Organized into **three main sections**:
 ---
 
 ## 🛠️ Tech Stack
-- **React** (functional components & hooks)  
+- **JavaScript**
+- **React** (functional components & hooks)
+- **HTML** 
 - **CSS Modules** for styling  
 - **Props & State** for dynamic UI updates  
 - **map() function** to render items dynamically  
